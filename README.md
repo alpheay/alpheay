@@ -147,7 +147,9 @@ hobbies:
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alpheay&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alpheay&theme=radical&no-frame=true&no-bg=true&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies" width="80%"/>
+  </a>
 </div>
 
 ---
@@ -159,20 +161,39 @@ hobbies:
 </h2>
 
 <div align="center">
-<p>
-  <a href="https://linkedin.com/in/alpheay">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/alpheay">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=0D1117&labelColor=1DA1F2" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/alpheay">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=E4405F" alt="Instagram"/>
-  </a>
-  <a href="mailto:alpheay@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=D14836" alt="Email"/>
-  </a>
-</p>
+
+<!-- Social Icons -->
+<a href="https://linkedin.com/in/alpheay">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/alpheay">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/alpheay">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/alpheay">
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:alpheay@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45"/>
+</a>
+
+<br/><br/>
+
+<!-- Connect Card -->
+<a href="https://github.com/alpheay">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=80&text=Open%20for%20Collaboration&fontColor=FFFFFF&fontSize=24&fontAlign=50&fontAlignY=55" width="70%"/>
+</a>
+
+<br/>
+
+<sub>Feel free to reach out - I'm always excited to connect with fellow developers and creators</sub>
+
 </div>
 
 ---
@@ -189,5 +210,4 @@ hobbies:
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
 </div>
