@@ -120,21 +120,20 @@ currently_exploring:
 <br/><br/>
 
 <!-- Frontend Card -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:000000&height=40&text=FRONTEND&fontSize=16&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="250"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,threejs&theme=light&perline=6" />
 
 <br/><br/>
 
 <!-- Backend Card -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:000000&height=40&text=BACKEND%20%26%20DATA&fontSize=16&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="250"/>
+
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis&theme=light&perline=6" />
 
 <br/><br/>
 
 <!-- DevOps Card -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:000000&height=40&text=DEVOPS%20%26%20CLOUD&fontSize=16&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="250"/>
+
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,github&theme=light&perline=6" />
 
