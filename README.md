@@ -113,7 +113,6 @@ currently_exploring:
 <div align="center">
 
 <!-- Languages Card -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:000000&height=40&text=LANGUAGES&fontSize=16&fontColor=ffffff&fontAlign=50&fontAlignY=55" width="250"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=js,ts,python,rust,go&theme=light&perline=5" />
 
@@ -139,7 +138,7 @@ currently_exploring:
 
 </div>
 
-<br/>
+<br/>   
 
 <!-- Sleek Divider -->
 <p align="center">
