@@ -1,98 +1,193 @@
 <div align="center">
+
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Alpheay&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Architect%20%7C%20AI%20Enthusiast&descAlignY=55&animation=fadeIn" />
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Crafting+Digital+Dreams;Engineering+Tomorrow's+Reality" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=alpheay&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <a href="https://github.com/alpheay?tab=followers">
+    <img src="https://img.shields.io/github/followers/alpheay?style=for-the-badge&logo=github&color=181717&labelColor=0D1117" alt="Followers"/>
+  </a>
+  <a href="https://github.com/alpheay?tab=repositories">
+    <img src="https://img.shields.io/github/stars/alpheay?style=for-the-badge&logo=github&color=181717&labelColor=0D1117" alt="Stars"/>
+  </a>
+</p>
+
+</div>
+
+<!-- About Section -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  About Me
+</h2>
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```yaml
+name: Alpheay
+located_in: The Digital Frontier
+current_focus: Advanced Agentic Systems
+
+education:
+  - "Self-taught Engineer"
+  - "Lifelong Learner"
+
+fields_of_interest:
+  - "Artificial Intelligence"
+  - "Full Stack Development"
+  - "WebGL & Creative Coding"
+  - "Distributed Systems"
+
+currently_learning:
+  - "Complex Neural Architectures"
+  - "WebGL Shaders"
+  - "Rust for Systems Programming"
+
+hobbies:
+  - "Open Source Contributions"
+  - "Building Developer Tools"
+  - "Exploring New Technologies"
+```
+
+<br clear="right"/>
+
+---
+
+<!-- Tech Stack -->
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  Tech Stack & Arsenal
+</h2>
+
+<div align="center">
+
+<!-- Languages -->
+<h4>Core Languages</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,go&theme=dark" />
+</p>
+
+<!-- Frontend -->
+<h4>Frontend Ecosystem</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,threejs&theme=dark" />
+</p>
+
+<!-- Backend & Database -->
+<h4>Backend & Data</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis&theme=dark" />
+</p>
+
+<!-- DevOps & Tools -->
+<h4>DevOps & Cloud</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,github&theme=dark" />
+</p>
+
+</div>
+
+---
+
+<!-- GitHub Stats -->
+<h2>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  Vital Statistics
+</h2>
+
+<div align="center">
   
-  <br/>
+<a href="https://github.com/alpheay">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alpheay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpheay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=C9D1D9"/>
+</a>
 
-  <h1>✨ Hi there, I'm <a href="https://github.com/alpheay">Alpheay</a>! ✨</h1>
-  
-  <p align="center">
-    <img src="https://readline.vercel.app/api/readme?name=Crafting Digital Dreams & Engineering Reality&color=FF00FF&size=24" alt="Typewriter" />
-  </p>
+<br/>
 
-  <p align="center">
-    <a href="https://github.com/alpheay">
-      <img src="https://img.shields.io/github/followers/alpheay?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers">
-    </a>
-    <a href="https://github.com/alpheay?tab=repositories">
-      <img src="https://img.shields.io/github/stars/alpheay?label=Total%20Stars&style=for-the-badge&color=gold&logo=github" alt="Stars">
-    </a>
-    <a href="https://github.com/alpheay?tab=repositories">
-      <img src="https://img.shields.io/github/repo-size/alpheay/alpheay?label=Repo%20Size&style=for-the-badge&color=success&logo=github" alt="Size">
-    </a>
-  </p>
+<!-- Streak Stats -->
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=alpheay&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&sideLabels=A960FF" alt="Streak Stats"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=alpheay&theme=react-dark&hide_border=true&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area=true&area_color=A960FF" alt="Activity Graph"/>
+
 </div>
 
 ---
 
-### 🚀 About Me
-
-I'm a **Full Stack Architect** and **AI Enthusiast** with a passion for building scalable, high-performance applications that push the boundaries of what's possible on the web. 
-
-- 🔭 I’m currently working on **Advanced Agentic Systems**
-- 🌱 I’m currently learning **Complex Neural Architectures & WebGL Shaders**
-- 👯 I’m looking to collaborate on **Open Source UI Libraries**
-- 💬 Ask me about **React, Node.js, or why Glassmorphism is elite**
-- ⚡ Fun fact: **I believe code is poetry in motion.**
-
----
-
-### 🛠️ Tech Stack & Arsenal
+<!-- Contribution Snake -->
+<h2>
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  Contribution Activity
+</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alpheay/alpheay/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alpheay/alpheay/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alpheay/alpheay/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
 
-### 📊 Vital Statistics
+<!-- Trophies -->
+<h2>
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  GitHub Trophies
+</h2>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alpheay&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Github Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpheay&layout=compact&theme=radical&hide_progress=true" alt="Top Langs" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alpheay&theme=radical&hide_border=true" alt="Streak Stats" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=alpheay&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 </div>
 
 ---
 
-### 🐍 Contribution Activity
+<!-- Connect Section -->
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  Let's Connect
+</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alpheay/alpheay/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+<p>
+  <a href="https://linkedin.com/in/alpheay">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/alpheay">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=0D1117&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/alpheay">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="mailto:alpheay@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=D14836" alt="Email"/>
+  </a>
+</p>
 </div>
 
 ---
 
-### 📫 Connect With Me
-
+<!-- Quote -->
 <div align="center">
-  <a href="https://linkedin.com/in/alpheay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpheay" height="30" width="40" /></a>
-  <a href="https://twitter.com/alpheay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alpheay" height="30" width="40" /></a>
-  <a href="https://instagram.com/alpheay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alpheay" height="30" width="40" /></a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 </div>
 
 <br/>
 
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling"/>
+
 <div align="center">
-  <p><i>Building the future, one commit at a time.</i></p>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
 </div>
