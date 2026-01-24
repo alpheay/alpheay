@@ -250,7 +250,3 @@ currently_exploring:
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:1a1a1a&height=150&section=footer&text=THANKS%20FOR%20VISITING&fontSize=30&fontColor=ffffff&fontAlignY=70&animation=fadeIn&stroke=ffffff&strokeWidth=0"/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CRAFTED-WITH%20PRECISION-ffffff?style=for-the-badge&labelColor=000000&logo=heart&logoColor=white"/>
-</div>
