@@ -34,10 +34,7 @@
 
 <br/>
 
-<!-- Sleek Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+ 
 
 <!-- About Section with Modern Card -->
 <h2 align="center">
@@ -96,10 +93,6 @@ currently_exploring:
 
 <br/>
 
-<!-- Sleek Divider -->
-<!-- <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p> -->
 
 <!-- Tech Arsenal -->
 <h2 align="center">
@@ -140,10 +133,6 @@ currently_exploring:
 
 <br/>   
 
-<!-- Sleek Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
 
 <!-- GitHub Analytics -->
 <h2 align="center">
@@ -200,10 +189,6 @@ currently_exploring:
 
 <br/>
 
-<!-- Sleek Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
 
 <!-- Connect Section -->
 <h2 align="center">
