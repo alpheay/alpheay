@@ -97,9 +97,9 @@ currently_exploring:
 <br/>
 
 <!-- Sleek Divider -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+</p> -->
 
 <!-- Tech Arsenal -->
 <h2 align="center">
