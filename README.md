@@ -141,12 +141,6 @@ currently_exploring:
 <br/>
 
 <div align="center">
-  
-<!-- Stats Cards Side by Side -->
-<a href="https://github.com/alpheay">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alpheay&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=a0a0a0&hide_rank=true&ring_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpheay&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=a0a0a0"/>
-</a>
 
 <br/><br/>
 
