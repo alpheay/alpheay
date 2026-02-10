@@ -51,7 +51,7 @@
 # Identity
 name: Nik Nandi
 title: Machine Learning Researcher
-location: Future
+location: Working in the Future
 
 # Current Mission
 focus: Advanced Agentic Systems
