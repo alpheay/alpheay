@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Hero Header with Dynamic Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a1a,100:000000&height=250&section=header&text=NIK NANDI&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Architect%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=65&descSize=18&descColor=a0a0a0&stroke=ffffff&strokeWidth=1" />
-
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Transforming+Ideas+Into+Digital+Reality;Building+Intelligent+Systems;Crafting+Elegant+Solutions" alt="Typing SVG" />
