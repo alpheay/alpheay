@@ -50,8 +50,8 @@
 ```yaml
 # Identity
 name: Nik Nandi
-title: Full Stack Architect
-location: The Digital Frontier
+title: Machine Learning Researcher
+location: Future
 
 # Current Mission
 focus: Advanced Agentic Systems
