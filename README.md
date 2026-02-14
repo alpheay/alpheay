@@ -98,7 +98,7 @@ collaboration: Open to Work
 <!-- Featured Projects -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>
-  &nbsp;<b>FEATURED PROJECTS</b>&nbsp;
+  &nbsp;<b>FEATURED</b>&nbsp;
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>
 </h2>
 
@@ -106,76 +106,76 @@ collaboration: Open to Work
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="#">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PROJECT%20ALPHA&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Project 1"/>
+<a href="https://github.com/gtfintechlab/IPO-Mine">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=IPO%20MINE&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="ipo_mine"/>
 </a>
 <br/>
 <div align="center">
-  <p>An intelligent agentic workflow system that automates complex coding tasks using a mixture of experts.</p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,react,docker&theme=dark&perline=7" height="20" />
-  <br/><br/>
-  <a href="#">
+  <p>A toolkit and dataset for Section-Structured Analysis of Long, Multimodal IPO Documents.</p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,bash,docker&theme=dark&perline=7" height="20" />
+  <br/><br/><br/>
+  <a href="https://github.com/gtfintechlab/IPO-Mine">
     <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
   </a>
   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
+  <a href="https://huggingface.co/datasets/gtfintechlab/ipo-images">
+    <img src="https://img.shields.io/badge/HF-DATASET-ffffff?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=1a1a1a" />
   </a>
 </div>
 </td>
 <td width="50%" valign="top">
-<a href="#">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PROJECT%20BETA&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Project 2"/>
+<a href="https://alpheay.github.io/jec/">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=JEC-API&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="jec_api"/>
 </a>
 <br/>
 <div align="center">
-  <p>A high-performance WebGL visualization engine for real-time data analytics and rendering.</p>
-  <img src="https://skillicons.dev/icons?i=rust,wasm,threejs,ts&theme=dark&perline=7" height="20" />
+  <p>A powerful FastAPI framework for building APIs with class-based routing, strict method mapping, and built-in, rich, developer tools.</p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,nginx&theme=dark&perline=7" height="20" />
   <br/><br/>
-  <a href="#">
+  <a href="https://github.com/alpheay/jec">
     <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
   </a>
   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
+  <a href="https://alpheay.github.io/jec/">
+    <img src="https://img.shields.io/badge/DOCUMENTATION-ffffff?style=for-the-badge&logo=readthedocs&logoColor=black&labelColor=1a1a1a" />
   </a>
 </div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="#">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PROJECT%20GAMMA&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Project 3"/>
+<a href="http://hyperbleed.me/">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=HYPERBLEED&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="HyperBleed"/>
 </a>
 <br/>
 <div align="center">
-  <p>Distributed system for scalable microservices with automated deployment pipelines.</p>
-  <img src="https://skillicons.dev/icons?i=go,kubernetes,grpc,aws&theme=dark&perline=7" height="20" />
+  <p>Future of AI assistance with intelligent planning, multi-modal capabilities, and comprehensive tool integration designed for complex problem-solving. Built for students, researchers, and professionals.</p>
+  <img src="https://skillicons.dev/icons?i=python,wasm,react,ts&theme=dark&perline=7" height="20" />
   <br/><br/>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+  <a href="http://hyperbleed.me/">
+    <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
   </a>
   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
+  <a href="http://hyperbleed.me/changelog">
+    <img src="https://img.shields.io/badge/CHANGELOG-ffffff?style=for-the-badge&logo=rss&logoColor=black&labelColor=1a1a1a" />
   </a>
 </div>
 </td>
 <td width="50%" valign="top">
-<a href="#">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PROJECT%20DELTA&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Project 4"/>
+<a href="https://www.venehealth.com/">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=VENE&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Vene"/>
 </a>
 <br/>
 <div align="center">
-  <p>Next-generation e-commerce platform with AI-driven recommendations and seamless UX.</p>
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,postgres,redis&theme=dark&perline=7" height="20" />
+  <p>Proactive wearable support for caregiving gaps. Detects distress through a wearable, responds with real-time calming support, and alerts caregivers when escalation is needed.</p>
+  <img src="https://skillicons.dev/icons?i=swift,apple,python,tensorflow&theme=dark&perline=7" height="20" />
   <br/><br/>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+  <a href="https://www.venehealth.com/">
+    <img src="https://img.shields.io/badge/WEBSITE-VISIT-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=1a1a1a" />
   </a>
   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
+  <a href="https://www.venehealth.com/">
+    <img src="https://img.shields.io/badge/JOIN-WAITLIST-ffffff?style=for-the-badge&logo=mail&logoColor=black&labelColor=1a1a1a" />
   </a>
 </div>
 </td>
@@ -289,10 +289,6 @@ collaboration: Open to Work
 
 <br/>
 
-<!-- Sleek Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
 
 <!-- Contribution Snake -->
 <h2 align="center">
