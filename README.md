@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:1a1a1a&height=120&section=header&animation=fadeIn"/>
+
 <div align="center">
 
 <!-- Dynamic Typing Animation -->
@@ -31,14 +33,11 @@
 
 <br/>
 
- 
 
 <!-- About Section with Modern Card -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+<h1 align="center">
   &nbsp;<b>WHO AM I</b>&nbsp;
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
-</h2>
+</h1>
 
 <br/>
 
@@ -93,26 +92,22 @@ collaboration: Open to Work
 
 <br/>
 
-
-
 <!-- Featured Projects -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>
+<h1 align="center">
   &nbsp;<b>FEATURED</b>&nbsp;
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>
-</h2>
+</h1>
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/gtfintechlab/IPO-Mine">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=IPO%20MINE&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="ipo_mine"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=IPO%20MINE&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="ipo_mine"/>
 </a>
 <br/>
 <div align="center">
-  <p>A toolkit and dataset for Section-Structured Analysis of Long, Multimodal IPO Documents.</p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,bash,docker&theme=dark&perline=7" height="20" />
+  <h3>A toolkit and dataset for Section-Structured Analysis of Long, Multimodal IPO Documents.</h3>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,bash,docker&theme=dark&perline=7" height="25" />
   <br/><br/><br/>
   <a href="https://github.com/gtfintechlab/IPO-Mine">
     <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
@@ -125,12 +120,12 @@ collaboration: Open to Work
 </td>
 <td width="50%" valign="top">
 <a href="https://alpheay.github.io/jec/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=JEC-API&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="jec_api"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=JEC&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="jec_api"/>
 </a>
 <br/>
 <div align="center">
-  <p>A powerful FastAPI framework for building APIs with class-based routing, strict method mapping, and built-in, rich, developer tools.</p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,nginx&theme=dark&perline=7" height="20" />
+  <h3>A powerful FastAPI framework for building APIs with class-based routing, strict method mapping, and built-in, rich, developer tools.</h3>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,nginx&theme=dark&perline=7" height="25" />
   <br/><br/>
   <a href="https://github.com/alpheay/jec">
     <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
@@ -145,12 +140,12 @@ collaboration: Open to Work
 <tr>
 <td width="50%" valign="top">
 <a href="http://hyperbleed.me/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=HYPERBLEED&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="HyperBleed"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=HYPERBLEED&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="HyperBleed"/>
 </a>
 <br/>
 <div align="center">
-  <p>Future of AI assistance with intelligent planning, multi-modal capabilities, and comprehensive tool integration designed for complex problem-solving. Built for students, researchers, and professionals.</p>
-  <img src="https://skillicons.dev/icons?i=python,wasm,react,ts&theme=dark&perline=7" height="20" />
+  <h3>Future of AI assistance with intelligent planning, multi-modal capabilities, and comprehensive tool integration designed for complex problem-solving. Built for students, researchers, and professionals.</h3>
+  <img src="https://skillicons.dev/icons?i=python,wasm,react,ts&theme=dark&perline=7" height="25" />
   <br/><br/>
   <a href="http://hyperbleed.me/">
     <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
@@ -163,17 +158,15 @@ collaboration: Open to Work
 </td>
 <td width="50%" valign="top">
 <a href="https://www.venehealth.com/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=VENE&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Vene"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=VENE&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Vene"/>
 </a>
 <br/>
 <div align="center">
-  <p>Proactive wearable support for caregiving gaps. Detects distress through a wearable, responds with real-time calming support, and alerts caregivers when escalation is needed. Designed for peace of mind.</p>
-  <img src="https://skillicons.dev/icons?i=swift,apple,python,tensorflow&theme=dark&perline=7" height="20" />
+  <h3>Proactive wearable support for caregiving gaps. Detects distress through a wearable, responds with real-time calming support, and alerts caregivers when escalation is needed. Designed for peace of mind.</h3>
+  <img src="https://skillicons.dev/icons?i=swift,apple,python,tensorflow&theme=dark&perline=7" height="25" />
   <br/><br/>
   <a href="https://www.venehealth.com/">
     <img src="https://img.shields.io/badge/WEBSITE-VISIT-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=1a1a1a" />
-  </a>
-
   </a>
 </div>
 </td>
@@ -181,12 +174,12 @@ collaboration: Open to Work
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/alpheay/glycerin">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=GLYCERIN&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Glycerin"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=GLYCERIN&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Glycerin"/>
 </a>
 <br/>
 <div align="center">
-  <p>An open-source AI chat CLI tool with a stunning interactive interface. Easily configurable with open APIs for displays and UI alteration. Created prior to joining OpenCode.</p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,bash,powershell&theme=dark&perline=7" height="20" />
+  <h3>An open-source AI chat CLI tool with a stunning interactive interface. Easily configurable with open APIs for displays and UI alteration. Created prior to joining OpenCode.</h3>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,bash,powershell&theme=dark&perline=7" height="25" />
   <br/><br/>
   <a href="https://github.com/alpheay/glycerin">
     <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
@@ -195,12 +188,12 @@ collaboration: Open to Work
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/alpheay/portfolio">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PORTFOLIO&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Portfolio"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PORTFOLIO&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Portfolio"/>
 </a>
 <br/>
 <div align="center">
-  <p>My GitHub portfolio for other projects, featuring research, experiments, and various technical implementations.</p>
-  <img src="https://skillicons.dev/icons?i=pytorch,vscode,dotnet,py,ts&theme=dark&perline=7" height="20" />
+  <h3>My GitHub portfolio for other projects, featuring research, experiments, and various technical implementations.</h3>
+  <img src="https://skillicons.dev/icons?i=pytorch,vscode,dotnet,py,ts&theme=dark&perline=7" height="25" />
   <br/><br/>
   <a href="https://github.com/alpheay/portfolio">
     <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
@@ -211,69 +204,62 @@ collaboration: Open to Work
 </table>
 </div>
 
-<br/><br/>
+<br/>
 
 
 <!-- Tech Arsenal -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>
+<h1 align="center">
   &nbsp;<b>TECH ARSENAL</b>&nbsp;
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>
-</h2>
+</h1>
 
-
+<br/>
 
 <div align="center">
-
-<!-- Languages Card -->
+<table>
+<tr>
+<td align="center" width="25%">
+<b>LANGUAGES</b>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,rust,go&theme=light&perline=5" />
-
+<img src="https://skillicons.dev/icons?i=python,ts,js,rust,go&theme=dark&perline=5" height="40" />
+</td>
+<td align="center" width="25%">
+<b>FRONTEND</b>
 <br/><br/>
-
-<!-- Frontend Card -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,threejs&theme=dark&perline=6" height="40" />
+</td>
+<td align="center" width="25%">
+<b>BACKEND</b>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,threejs&theme=light&perline=6" />
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis&theme=dark&perline=6" height="40" />
+</td>
+<td align="center" width="25%">
+<b>DEVOPS</b>
 <br/><br/>
-
-<!-- Backend Card -->
-
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis&theme=light&perline=6" />
-
-<br/><br/>
-
-<!-- DevOps Card -->
-
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,github&theme=light&perline=6" />
-
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,github&theme=dark&perline=6" height="40" />
+</td>
+</tr>
+</table>
 </div>
 
-<br/>   
+<br/>
 
 
 <!-- GitHub Analytics -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"/>
+<h1 align="center">
   &nbsp;<b>GITHUB ANALYTICS</b>&nbsp;
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"/>
-</h2>
+</h1>
 
 <br/>
 
 <div align="center">
 
-<br/><br/>
-
 <!-- Streak Stats -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=alpheay&hide_border=true&background=0d0d0d&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=a0a0a0&currStreakNum=ffffff&sideNums=a0a0a0&dates=666666" alt="Streak Stats"/>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=alpheay&hide_border=true&background=0d0d0d&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=a0a0a0&currStreakNum=ffffff&sideNums=a0a0a0&dates=666666" alt="Streak Stats"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alpheay&hide_border=true&bg_color=0d0d0d&color=ffffff&line=ffffff&point=a0a0a0&area=true&area_color=1a1a1a&title_color=ffffff&custom_title=CONTRIBUTION%20GRAPH" alt="Activity Graph"/>
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=alpheay&hide_border=true&bg_color=0d0d0d&color=ffffff&line=ffffff&point=a0a0a0&area=true&area_color=1a1a1a&title_color=ffffff&custom_title=CONTRIBUTION%20GRAPH" alt="Activity Graph"/>
 
 </div>
 
@@ -281,11 +267,9 @@ collaboration: Open to Work
 
 
 <!-- Contribution Snake -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"/>
+<h1 align="center">
   &nbsp;<b>CONTRIBUTION SNAKE</b>&nbsp;
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"/>
-</h2>
+</h1>
 
 <br/>
 
@@ -301,37 +285,31 @@ collaboration: Open to Work
 
 
 <!-- Connect Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/>
+<h1 align="center">
   &nbsp;<b>LET'S CONNECT</b>&nbsp;
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/>
-</h2>
+</h1>
 
 <br/>
 
 <div align="center">
 
 <!-- Premium Social Cards -->
-<a href="https://linkedin.com/in/alpheay">
+<a href="https://www.linkedin.com/in/niknandi/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=1a1a1a" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/alpheay">
-  <img src="https://img.shields.io/badge/Twitter-Follow-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=1a1a1a" alt="Twitter"/>
+<a href="https://x.com/NikNandi">
+  <img src="https://img.shields.io/badge/X-Follow-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=1a1a1a" alt="X"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://discord.com/users/alpheay">
-  <img src="https://img.shields.io/badge/Discord-Chat-ffffff?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&color=1a1a1a" alt="Discord"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/alpheay">
-  <img src="https://img.shields.io/badge/Instagram-Follow-ffffff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=1a1a1a" alt="Instagram"/>
+<a href="mailto:nik.nandi.1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=1a1a1a" alt="Email"/>
 </a>
 
 <br/><br/>
 
 <!-- Collaboration Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1a1a1a&height=100&section=header&text=OPEN%20FOR%20COLLABORATION&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&stroke=ffffff&strokeWidth=1" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1a1a1a&height=100&section=header&text=OPEN%20FOR%20COLLABORATION&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%"/>
 
 <br/><br/>
 
