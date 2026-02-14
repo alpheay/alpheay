@@ -4,7 +4,7 @@
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Transforming+Ideas+Into+Digital+Reality;Building+Intelligent+Systems;Crafting+Elegant+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Turning+ideas+into+products;Building+reliable+AI+systems;Solving+real+problems" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -50,12 +50,12 @@
 # Identity
 name: Nik Nandi
 title: Machine Learning Researcher
-why: The Future is Needy
+why: Solve real-world problems with AI
 
 # Current Mission
 focus_a: Advanced Agentic Systems
-focus_b: Building Machine Learning Models
-status: Building the Future
+focus_b: Machine Learning Model Development
+status: Actively building and collaborating
 
 # Core Philosophy
 principles:
@@ -313,7 +313,7 @@ collaboration: Open to Work
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=I'm+always+excited+to+connect+with+fellow+developers;Let's+build+something+amazing+together" alt="Connect Message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Open+to+collaboration;Let's+connect+and+discuss+ideas" alt="Connect Message"/>
 
 </div>
 
