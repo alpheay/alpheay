@@ -82,6 +82,8 @@ currently_exploring:
   - WebGL Shaders
   - Rust Systems Programming
   - Agent Orchestration
+
+collaboration: Open to Work
 ```
 
 </td>
@@ -90,6 +92,136 @@ currently_exploring:
 </div>
 
 <br/>
+
+
+
+<!-- Featured Projects -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>
+  &nbsp;<b>FEATURED PROJECTS</b>&nbsp;
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>
+</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="#">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PROJECT%20ALPHA&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Project 1"/>
+</a>
+<br/>
+<div align="center">
+  <p>An intelligent agentic workflow system that automates complex coding tasks using a mixture of experts.</p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,react,docker&theme=dark&perline=7" height="20" />
+  <br/><br/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
+  </a>
+</div>
+</td>
+<td width="50%" valign="top">
+<a href="#">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PROJECT%20BETA&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Project 2"/>
+</a>
+<br/>
+<div align="center">
+  <p>A high-performance WebGL visualization engine for real-time data analytics and rendering.</p>
+  <img src="https://skillicons.dev/icons?i=rust,wasm,threejs,ts&theme=dark&perline=7" height="20" />
+  <br/><br/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
+  </a>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="#">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PROJECT%20GAMMA&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Project 3"/>
+</a>
+<br/>
+<div align="center">
+  <p>Distributed system for scalable microservices with automated deployment pipelines.</p>
+  <img src="https://skillicons.dev/icons?i=go,kubernetes,grpc,aws&theme=dark&perline=7" height="20" />
+  <br/><br/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
+  </a>
+</div>
+</td>
+<td width="50%" valign="top">
+<a href="#">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PROJECT%20DELTA&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Project 4"/>
+</a>
+<br/>
+<div align="center">
+  <p>Next-generation e-commerce platform with AI-driven recommendations and seamless UX.</p>
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,postgres,redis&theme=dark&perline=7" height="20" />
+  <br/><br/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
+  </a>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="#">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PROJECT%20EPSILON&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Project 5"/>
+</a>
+<br/>
+<div align="center">
+  <p>Creative coding experiment showcasing generative art algorithms and interactive shaders.</p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,p5js&theme=dark&perline=7" height="20" />
+  <br/><br/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
+  </a>
+</div>
+</td>
+<td width="50%" valign="top">
+<a href="#">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PROJECT%20ZETA&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Project 6"/>
+</a>
+<br/>
+<div align="center">
+  <p>Secure blockchain wallet implementation with biometric authentication and cross-chain support.</p>
+  <img src="https://skillicons.dev/icons?i=solidity,eth,flutter,dart&theme=dark&perline=7" height="20" />
+  <br/><br/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
+  </a>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<br/><br/>
 
 
 <!-- Tech Arsenal -->
