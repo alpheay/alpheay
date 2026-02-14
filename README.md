@@ -144,6 +144,8 @@ collaboration: Open to Work
 </a>
 <br/>
 <div align="center">
+  <img src="https://img.shields.io/badge/TYPE-PRODUCT-ffffff?style=for-the-badge&labelColor=000000&logo=producthunt&logoColor=white"/>
+  <br/>
   <h3>Future of AI assistance with intelligent planning, multi-modal capabilities, and comprehensive tool integration designed for complex problem-solving. Built for students, researchers, and professionals.</h3>
   <img src="https://skillicons.dev/icons?i=python,wasm,react,ts&theme=dark&perline=7" height="25" />
   <br/><br/>
@@ -162,6 +164,8 @@ collaboration: Open to Work
 </a>
 <br/>
 <div align="center">
+  <img src="https://img.shields.io/badge/TYPE-PRODUCT-ffffff?style=for-the-badge&labelColor=000000&logo=producthunt&logoColor=white"/>
+  <br/>
   <h3>Proactive wearable support for caregiving gaps. Detects distress through a wearable, responds with real-time calming support, and alerts caregivers when escalation is needed. Designed for peace of mind.</h3>
   <img src="https://skillicons.dev/icons?i=swift,apple,python,tensorflow&theme=dark&perline=7" height="25" />
   <br/><br/>
