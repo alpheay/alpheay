@@ -167,7 +167,7 @@ collaboration: Open to Work
 </a>
 <br/>
 <div align="center">
-  <p>Proactive wearable support for caregiving gaps. Detects distress through a wearable, responds with real-time calming support, and alerts caregivers when escalation is needed.</p>
+  <p>Proactive wearable support for caregiving gaps. Detects distress through a wearable, responds with real-time calming support, and alerts caregivers when escalation is needed. Designed for peace of mind.</p>
   <img src="https://skillicons.dev/icons?i=swift,apple,python,tensorflow&theme=dark&perline=7" height="20" />
   <br/><br/>
   <a href="https://www.venehealth.com/">
