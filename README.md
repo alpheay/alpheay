@@ -182,20 +182,17 @@ collaboration: Open to Work
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="#">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PROJECT%20EPSILON&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Project 5"/>
+<a href="https://github.com/alpheay/glycerin">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=GLYCERIN&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Glycerin"/>
 </a>
 <br/>
 <div align="center">
-  <p>Creative coding experiment showcasing generative art algorithms and interactive shaders.</p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,p5js&theme=dark&perline=7" height="20" />
+  <p>An open-source AI chat CLI tool with a stunning interactive interface. Easily configurable with open APIs for displays and UI alteration. Created prior to joining OpenCode.</p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,bash,powershell&theme=dark&perline=7" height="20" />
   <br/><br/>
-  <a href="#">
+  <a href="https://github.com/alpheay/glycerin">
     <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
   </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
   </a>
 </div>
 </td>
