@@ -119,7 +119,7 @@ collaboration: Open to Work
   </a>
   &nbsp;
   <a href="https://ipo-mine-website.pages.dev/">
-    <img src="https://img.shields.io/badge/SHOWCASE-SITE-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/-SITE-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=1a1a1a" />
   </a>
 </div>
 </td>
@@ -173,9 +173,7 @@ collaboration: Open to Work
   <a href="https://www.venehealth.com/">
     <img src="https://img.shields.io/badge/WEBSITE-VISIT-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=1a1a1a" />
   </a>
-  &nbsp;
-  <a href="https://www.venehealth.com/">
-    <img src="https://img.shields.io/badge/JOIN-WAITLIST-ffffff?style=for-the-badge&logo=mail&logoColor=black&labelColor=1a1a1a" />
+
   </a>
 </div>
 </td>
