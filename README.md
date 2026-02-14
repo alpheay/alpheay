@@ -51,10 +51,11 @@
 # Identity
 name: Nik Nandi
 title: Machine Learning Researcher
-location: Working in the Future
+why: The Future is Needy
 
 # Current Mission
-focus: Advanced Agentic Systems
+focus_a: Advanced Agentic Systems
+focus_b: Building Machine Learning Models
 status: Building the Future
 
 # Core Philosophy
