@@ -194,20 +194,16 @@ collaboration: Open to Work
 </div>
 </td>
 <td width="50%" valign="top">
-<a href="#">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PROJECT%20ZETA&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Project 6"/>
+<a href="https://github.com/alpheay/portfolio">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PORTFOLIO&fontSize=20&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Portfolio"/>
 </a>
 <br/>
 <div align="center">
-  <p>Secure blockchain wallet implementation with biometric authentication and cross-chain support.</p>
-  <img src="https://skillicons.dev/icons?i=solidity,eth,flutter,dart&theme=dark&perline=7" height="20" />
+  <p>My GitHub portfolio for other projects, featuring research, experiments, and various technical implementations.</p>
+  <img src="https://skillicons.dev/icons?i=pytorch,vscode,dotnet,py,ts&theme=dark&perline=7" height="20" />
   <br/><br/>
-  <a href="#">
+  <a href="https://github.com/alpheay/portfolio">
     <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
-  </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
   </a>
 </div>
 </td>
