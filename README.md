@@ -118,8 +118,8 @@ collaboration: Open to Work
     <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
   </a>
   &nbsp;
-  <a href="https://huggingface.co/datasets/gtfintechlab/ipo-images">
-    <img src="https://img.shields.io/badge/HF-DATASET-ffffff?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=1a1a1a" />
+  <a href="https://ipo-mine-website.pages.dev/">
+    <img src="https://img.shields.io/badge/SHOWCASE-SITE-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=1a1a1a" />
   </a>
 </div>
 </td>
@@ -192,7 +192,6 @@ collaboration: Open to Work
   <br/><br/>
   <a href="https://github.com/alpheay/glycerin">
     <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
-  </a>
   </a>
 </div>
 </td>
