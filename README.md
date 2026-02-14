@@ -106,11 +106,15 @@ collaboration: Open to Work
 </a>
 <br/>
 <div align="center">
-  <h3>A toolkit and dataset for Section-Structured Analysis of Long, Multimodal IPO Documents.</h3>
+  <h3>A toolkit and dataset for Section-Structured Analysis of Long, Multimodal IPO Documents.<br/>&nbsp;</h3>
   <img src="https://skillicons.dev/icons?i=python,pytorch,bash,docker&theme=dark&perline=7" height="25" />
-  <br/><br/><br/>
+  <br/><br/>
   <a href="https://github.com/gtfintechlab/IPO-Mine">
-    <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/gtfintechlab/IPO-Mine">
+    <img src="https://img.shields.io/badge/-SOURCE-ffffff?style=for-the-badge" />
   </a>
   &nbsp;
   <a href="https://ipo-mine-website.pages.dev/">
@@ -128,7 +132,11 @@ collaboration: Open to Work
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,nginx&theme=dark&perline=7" height="25" />
   <br/><br/>
   <a href="https://github.com/alpheay/jec">
-    <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/alpheay/jec">
+    <img src="https://img.shields.io/badge/-SOURCE-ffffff?style=for-the-badge" />
   </a>
   &nbsp;
   <a href="https://alpheay.github.io/jec/">
@@ -190,7 +198,11 @@ collaboration: Open to Work
   <img src="https://skillicons.dev/icons?i=ts,nodejs,bash,powershell&theme=dark&perline=7" height="25" />
   <br/><br/>
   <a href="https://github.com/alpheay/glycerin">
-    <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/alpheay/glycerin">
+    <img src="https://img.shields.io/badge/-SOURCE-ffffff?style=for-the-badge" />
   </a>
 </div>
 </td>
@@ -200,11 +212,15 @@ collaboration: Open to Work
 </a>
 <br/>
 <div align="center">
-  <h3>My GitHub portfolio for other projects, featuring research, experiments, and various technical implementations.</h3>
+  <h3>My GitHub portfolio for other projects, featuring research, experiments, and various technical implementations.<br/>&nbsp;</h3>
   <img src="https://skillicons.dev/icons?i=pytorch,vscode,dotnet,py,ts&theme=dark&perline=7" height="25" />
   <br/><br/>
   <a href="https://github.com/alpheay/portfolio">
-    <img src="https://img.shields.io/badge/GITHUB-SOURCE-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/alpheay/portfolio">
+    <img src="https://img.shields.io/badge/-SOURCE-ffffff?style=for-the-badge" />
   </a>
 </div>
 </td>
