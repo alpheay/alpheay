@@ -22,13 +22,13 @@
 
 <!-- Profile Metrics -->
 <a href="https://github.com/alpheay?tab=followers">
-  <img src="https://custom-icon-badges.demolab.com/github/followers/alpheay?style=for-the-badge&logo=people&label=Followers&logoColor=white&color=1a1a1a&labelColor=000000" alt="Followers"/>
+  <img src="https://custom-icon-badges.demolab.com/github/followers/alpheay?style=for-the-badge&logo=people&label=Followers&logoColor=white&color=1a1a1a&labelColor=000000&refresh=1" alt="Followers"/>
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=alpheay&style=for-the-badge&color=1a1a1a&label=VISITORS&labelColor=000000" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/alpheay?tab=repositories">
-  <img src="https://custom-icon-badges.demolab.com/github/stars/alpheay?style=for-the-badge&logo=star&label=Stars&logoColor=white&color=1a1a1a&labelColor=000000" alt="Stars"/>
+  <img src="https://custom-icon-badges.demolab.com/github/stars/alpheay?style=for-the-badge&logo=star&label=Stars&logoColor=white&color=1a1a1a&labelColor=000000&refresh=1" alt="Stars"/>
 </a>
 
 </div>
