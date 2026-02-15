@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:1a1a1a&height=120&section=header&animation=fadeIn"/>
+<img width="100%" src="assets/header.svg" alt="Nik Nandi Header"/>
+
+<br/><br/>
 
 <div align="center">
 
@@ -101,13 +103,13 @@ collaboration: Open to Work
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/gtfintechlab/IPO-Mine">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=IPO%20MINE&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="ipo_mine"/>
-</a>
-<br/>
 <div align="center">
-  <h3>A toolkit and dataset for Section-Structured Analysis of Long, Multimodal IPO Documents.<br/>&nbsp;</h3>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,bash,docker&theme=dark&perline=7" height="25" />
+  <a href="https://github.com/gtfintechlab/IPO-Mine">
+    <img src="assets/featured/ipo_mine.svg" width="100%" alt="ipo_mine"/>
+  </a>
+  <br/>
+  <h3>A toolkit and dataset for Section-Structured Analysis of Long, Multimodal IPO Documents.</h3>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,bash,docker&theme=dark" height="25" />
   <br/><br/>
   <a href="https://github.com/gtfintechlab/IPO-Mine">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -123,13 +125,13 @@ collaboration: Open to Work
 </div>
 </td>
 <td width="50%" valign="top">
-<a href="https://alpheay.github.io/jec/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=JEC&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="jec_api"/>
-</a>
-<br/>
 <div align="center">
-  <h3>A powerful FastAPI framework for building APIs with class-based routing, strict method mapping, and built-in, rich, developer tools.</h3>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,nginx&theme=dark&perline=7" height="25" />
+  <a href="https://alpheay.github.io/jec/">
+    <img src="assets/featured/jec.svg" width="100%" alt="jec_api"/>
+  </a>
+  <br/>
+  <h3>A powerful FastAPI framework for building APIs with class-based routing, strict method mapping, and developer tools.</h3>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,nginx&theme=dark" height="25" />
   <br/><br/>
   <a href="https://github.com/alpheay/jec">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -147,17 +149,17 @@ collaboration: Open to Work
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="http://hyperbleed.me/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=HYPERBLEED&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="HyperBleed"/>
-</a>
-<br/>
 <div align="center">
+  <a href="http://hyperbleed.me/">
+    <img src="assets/featured/hyperbleed.svg" width="100%" alt="HyperBleed"/>
+  </a>
+  <br/>
   <a href="http://hyperbleed.me/">
     <img src="https://img.shields.io/badge/PRODUCT-ffffff?style=for-the-badge&labelColor=1a1a1a&logo=producthunt&logoColor=black"/>
   </a>
   <br/>
-  <h3>Future of AI assistance with intelligent planning, multi-modal capabilities, and comprehensive tool integration designed for complex problem-solving. Built for students, researchers, and professionals.</h3>
-  <img src="https://skillicons.dev/icons?i=python,wasm,react,ts&theme=dark&perline=7" height="25" />
+  <h3>Future of AI assistance with intelligent planning, multi-modal capabilities, and comprehensive tool integration.</h3>
+  <img src="https://skillicons.dev/icons?i=python,wasm,react,ts&theme=dark" height="25" />
   <br/><br/>
   <a href="http://hyperbleed.me/">
     <img src="https://img.shields.io/badge/LIVE-DEMO-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a" />
@@ -169,17 +171,17 @@ collaboration: Open to Work
 </div>
 </td>
 <td width="50%" valign="top">
-<a href="https://www.venehealth.com/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=VENE&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Vene"/>
-</a>
-<br/>
 <div align="center">
+  <a href="https://www.venehealth.com/">
+    <img src="assets/featured/vene.svg" width="100%" alt="Vene"/>
+  </a>
+  <br/>
   <a href="https://www.venehealth.com/">
     <img src="https://img.shields.io/badge/PRODUCT-ffffff?style=for-the-badge&labelColor=1a1a1a&logo=producthunt&logoColor=black"/>
   </a>
   <br/>
-  <h3>Proactive wearable support for caregiving gaps. Detects distress through a wearable, responds with real-time calming support, and alerts caregivers when escalation is needed. Designed for peace of mind.</h3>
-  <img src="https://skillicons.dev/icons?i=swift,apple,python,tensorflow&theme=dark&perline=7" height="25" />
+  <h3>Proactive wearable support for caregiving gaps. Detects distress and responds with real-time calming support.</h3>
+  <img src="https://skillicons.dev/icons?i=swift,apple,python,tensorflow&theme=dark" height="25" />
   <br/><br/>
   <a href="https://www.venehealth.com/">
     <img src="https://img.shields.io/badge/WEBSITE-VISIT-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=1a1a1a" />
@@ -189,13 +191,13 @@ collaboration: Open to Work
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/alpheay/glycerin">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=GLYCERIN&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Glycerin"/>
-</a>
-<br/>
 <div align="center">
-  <h3>An open-source AI chat CLI tool with a stunning interactive interface. Easily configurable with open APIs for displays and UI alteration. Created prior to joining OpenCode.</h3>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,bash,powershell&theme=dark&perline=7" height="25" />
+  <a href="https://github.com/alpheay/glycerin">
+    <img src="assets/featured/glycerin.svg" width="100%" alt="Glycerin"/>
+  </a>
+  <br/>
+  <h3>An open-source AI chat CLI tool with a stunning interactive interface. Easily configurable with open APIs.</h3>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,bash,powershell&theme=dark" height="25" />
   <br/><br/>
   <a href="https://github.com/alpheay/glycerin">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -207,13 +209,13 @@ collaboration: Open to Work
 </div>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/alpheay/portfolio">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=100&section=header&text=PORTFOLIO&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%" alt="Portfolio"/>
-</a>
-<br/>
 <div align="center">
-  <h3>My GitHub portfolio for other projects, featuring research, experiments, and various technical implementations.<br/>&nbsp;</h3>
-  <img src="https://skillicons.dev/icons?i=pytorch,vscode,dotnet,py,ts&theme=dark&perline=7" height="25" />
+  <a href="https://github.com/alpheay/portfolio">
+    <img src="assets/featured/portfolio.svg" width="100%" alt="Portfolio"/>
+  </a>
+  <br/>
+  <h3>My GitHub portfolio for other projects, featuring research, experiments, and technical implementations.</h3>
+  <img src="https://skillicons.dev/icons?i=pytorch,vscode,dotnet,py,ts&theme=dark" height="25" />
   <br/><br/>
   <a href="https://github.com/alpheay/portfolio">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -344,4 +346,4 @@ collaboration: Open to Work
 <br/>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:1a1a1a&height=150&section=footer&text=THANKS%20FOR%20VISITING&fontSize=30&fontColor=ffffff&fontAlignY=70&animation=fadeIn&stroke=ffffff&strokeWidth=0"/>
+<img width="100%" src="assets/footer.svg" alt="Thanks for Visiting"/>
