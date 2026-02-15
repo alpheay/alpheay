@@ -115,10 +115,6 @@ collaboration: Open to Work
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/gtfintechlab/IPO-Mine">
-    <img src="https://img.shields.io/badge/-SOURCE-ffffff?style=for-the-badge" />
-  </a>
-  &nbsp;
   <a href="https://ipo-mine-website.pages.dev/">
     <img src="https://img.shields.io/badge/-SITE-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=1a1a1a" />
   </a>
@@ -135,10 +131,6 @@ collaboration: Open to Work
   <br/><br/>
   <a href="https://github.com/alpheay/jec">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/alpheay/jec">
-    <img src="https://img.shields.io/badge/-SOURCE-ffffff?style=for-the-badge" />
   </a>
   &nbsp;
   <a href="https://alpheay.github.io/jec/">
@@ -202,10 +194,6 @@ collaboration: Open to Work
   <a href="https://github.com/alpheay/glycerin">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://github.com/alpheay/glycerin">
-    <img src="https://img.shields.io/badge/-SOURCE-ffffff?style=for-the-badge" />
-  </a>
 </div>
 </td>
 <td width="50%" valign="top">
@@ -219,10 +207,6 @@ collaboration: Open to Work
   <br/><br/>
   <a href="https://github.com/alpheay/portfolio">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/alpheay/portfolio">
-    <img src="https://img.shields.io/badge/-SOURCE-ffffff?style=for-the-badge" />
   </a>
 </div>
 </td>
