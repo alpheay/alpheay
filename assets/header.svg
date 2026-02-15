@@ -1,0 +1,23 @@
+<svg width="1000" height="160" viewBox="0 0 1000 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="160" rx="16" fill="#0A0A0A"/>
+  
+  <!-- Grid Lines -->
+  <path d="M0 40H1000" stroke="#333" stroke-width="0.5" stroke-dasharray="4 4" opacity="0.3"/>
+  <path d="M0 80H1000" stroke="#333" stroke-width="0.5" stroke-dasharray="4 4" opacity="0.3"/>
+  <path d="M0 120H1000" stroke="#333" stroke-width="0.5" stroke-dasharray="4 4" opacity="0.3"/>
+  
+  <!-- Content -->
+  <text x="500" y="70" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="800" fill="white" text-anchor="middle" style="letter-spacing: -0.02em;">NIK NANDI</text>
+  <text x="500" y="105" font-family="'Space Mono', monospace, system-ui" font-size="14" font-weight="500" fill="#9CA3AF" text-anchor="middle" style="letter-spacing: 0.15em; text-transform: uppercase;">hi there!</text>
+  
+  <!-- Decorative Accent -->
+  <line x1="400" y1="125" x2="600" y2="125" stroke="url(#paint0_linear_header)" stroke-width="2" stroke-linecap="round"/>
+
+  <defs>
+    <linearGradient id="paint0_linear_header" x1="400" y1="125" x2="600" y2="125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
