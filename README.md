@@ -219,7 +219,7 @@ collaboration: Open to Work
 
 <!-- Tech Arsenal -->
 <h1 align="center">
-  &nbsp;<b>TECH ARSENAL</b>&nbsp;
+  &nbsp;<b>TECH STACK</b>&nbsp;
 </h1>
 
 <br/>
