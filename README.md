@@ -314,12 +314,7 @@ collaboration: Open to Work
   <img src="https://img.shields.io/badge/Email-Contact-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=1a1a1a" alt="Email"/>
 </a>
 
-<br/><br/>
-
-<!-- Collaboration Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1a1a1a&height=100&section=header&text=OPEN%20FOR%20COLLABORATION&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%"/>
-
-<br/><br/>
+<br/>
 
 <img src="assets/connect_animation.svg" alt="Connect Message" width="600"/>
 
