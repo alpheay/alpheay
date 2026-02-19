@@ -4,10 +4,8 @@
 
 <div align="center">
 
-<!-- Dynamic Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Turning+ideas+into+products;Building+reliable+AI+systems;Solving+real+problems" alt="Typing SVG" />
-</a>
+<!-- Dynamic Hero Animation -->
+<img src="assets/hero_animation.svg" alt="Dynamic Tech Animation" width="100%" />
 
 <br/><br/>
 
@@ -323,7 +321,7 @@ collaboration: Open to Work
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Open+to+collaboration;Let's+connect+and+discuss+ideas" alt="Connect Message"/>
+<img src="assets/connect_animation.svg" alt="Connect Message" width="600"/>
 
 </div>
 

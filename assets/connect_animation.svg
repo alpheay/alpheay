@@ -1,0 +1,49 @@
+<svg width="600" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .text {
+        font-family: 'Space Mono', system-ui, -apple-system, sans-serif, monospace;
+        font-size: 13px;
+        fill: #A0A0A0;
+        text-transform: uppercase;
+        letter-spacing: 0.15em;
+        opacity: 0;
+      }
+      .line1 { animation: cycle 8s infinite; animation-delay: 0s; }
+      .line2 { animation: cycle 8s infinite; animation-delay: 4s; }
+
+      @keyframes cycle {
+        0%, 100% { opacity: 0; transform: translateY(4px); filter: blur(2px); }
+        10%, 40% { opacity: 1; transform: translateY(0); filter: blur(0px); }
+        50% { opacity: 0; transform: translateY(-4px); filter: blur(2px); }
+      }
+
+      .indicator {
+        fill: #10B981;
+        animation: pulse 2s infinite;
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: 1; filter: drop-shadow(0 0 5px #10B981); }
+        50% { opacity: 0.3; filter: none; }
+      }
+
+      .container {
+        fill: #111;
+        stroke: #222;
+        stroke-width: 1;
+      }
+    </style>
+  </defs>
+
+  <rect x="100" y="15" width="400" height="30" rx="15" class="container" />
+
+  <!-- Status Indicator -->
+  <circle cx="140" cy="30" r="3" class="indicator" />
+
+  <!-- Animated Text -->
+  <g transform="translate(320, 34)" text-anchor="middle">
+    <text class="text line1">Open to collaboration</text>
+    <text class="text line2">Let's connect &amp; discuss ideas</text>
+  </g>
+</svg>

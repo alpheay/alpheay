@@ -1,0 +1,131 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0A0A0A; }
+      .grid-line { stroke: #333; stroke-width: 0.5; stroke-dasharray: 4 4; opacity: 0.3; }
+      
+      .text {
+        font-family: 'Space Mono', system-ui, -apple-system, sans-serif, monospace;
+        font-size: 22px;
+        font-weight: 700;
+        fill: #FFFFFF;
+        text-transform: uppercase;
+        letter-spacing: 0.15em;
+        opacity: 0;
+      }
+      .line1 { animation: reveal 9s infinite; animation-delay: 0s; }
+      .line2 { animation: reveal 9s infinite; animation-delay: 3s; }
+      .line3 { animation: reveal 9s infinite; animation-delay: 6s; }
+
+      @keyframes reveal {
+        0%, 100% { opacity: 0; transform: translateY(15px); filter: blur(4px); }
+        5%, 28% { opacity: 1; transform: translateY(0); filter: blur(0px); }
+        33% { opacity: 0; transform: translateY(-15px); filter: blur(4px); }
+      }
+      
+      .node { fill: #FFFFFF; animation: breath 4s ease-in-out infinite alternate; }
+      @keyframes breath {
+        0% { r: 1.5; opacity: 0.3; }
+        100% { r: 3; opacity: 1; filter: drop-shadow(0 0 6px #ffffff); }
+      }
+
+      .conn { stroke: #333333; stroke-width: 1; stroke-dasharray: 20; animation: flow 3s linear infinite; }
+      @keyframes flow {
+        from { stroke-dashoffset: 40; opacity: 0.5; }
+        to { stroke-dashoffset: 0; opacity: 0.1; }
+      }
+
+      .accent-box {
+        fill: none;
+        stroke: #333;
+        stroke-width: 1;
+        opacity: 0.5;
+        stroke-dasharray: 8 4;
+      }
+      
+      .scanning-light {
+        fill: url(#scan-gradient);
+        animation: scan 6s ease-in-out infinite;
+      }
+      
+      @keyframes scan {
+        0% { transform: translateX(-100px); opacity: 0; }
+        15%, 85% { opacity: 0.6; }
+        100% { transform: translateX(1100px); opacity: 0; }
+      }
+      
+      .bracket {
+        font-family: 'Space Mono', monospace;
+        font-size: 32px;
+        font-weight: 300;
+        fill: #555;
+      }
+    </style>
+    
+    <linearGradient id="scan-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#fff" stop-opacity="1" />
+      <stop offset="100%" stop-color="#fff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="120" rx="16" class="bg"/>
+  
+  <!-- Grid Lines -->
+  <path d="M0 30H1000" class="grid-line"/>
+  <path d="M0 60H1000" class="grid-line"/>
+  <path d="M0 90H1000" class="grid-line"/>
+
+  <!-- Scanning Effect Overlay -->
+  <rect x="0" y="0" width="100" height="120" class="scanning-light" style="mix-blend-mode: overlay;"/>
+
+  <!-- Center Framing -->
+  <rect x="180" y="30" width="640" height="60" rx="4" class="accent-box"/>
+  
+  <!-- Decorative Corner Marks -->
+  <path d="M 170 20 L 170 30 L 180 30 M 170 100 L 170 90 L 180 90 M 830 20 L 830 30 L 820 30 M 830 100 L 830 90 L 820 90" fill="none" stroke="#666" stroke-width="2"/>
+
+  <!-- Neural Net Left -->
+  <g transform="translate(100, 60)">
+    <line x1="-30" y1="-20" x2="10" y2="0" class="conn"/>
+    <line x1="-30" y1="20" x2="10" y2="0" class="conn"/>
+    <line x1="-50" y1="0" x2="-30" y2="-20" class="conn"/>
+    <line x1="-50" y1="0" x2="-30" y2="20" class="conn"/>
+    <line x1="10" y1="0" x2="30" y2="-15" class="conn"/>
+    <line x1="10" y1="0" x2="30" y2="15" class="conn"/>
+    
+    <circle cx="-50" cy="0" class="node" style="animation-delay: 0s" />
+    <circle cx="-30" cy="-20" class="node" style="animation-delay: 0.4s" />
+    <circle cx="-30" cy="20" class="node" style="animation-delay: 0.8s" />
+    <circle cx="10" cy="0" class="node" style="animation-delay: 1.2s" />
+    <circle cx="30" cy="-15" class="node" style="animation-delay: 1.6s" />
+    <circle cx="30" cy="15" class="node" style="animation-delay: 2.0s" />
+  </g>
+
+  <!-- Neural Net Right -->
+  <g transform="translate(900, 60)">
+    <line x1="50" y1="0" x2="30" y2="-20" class="conn"/>
+    <line x1="50" y1="0" x2="30" y2="20" class="conn"/>
+    <line x1="30" y1="-20" x2="-10" y2="0" class="conn"/>
+    <line x1="30" y1="20" x2="-10" y2="0" class="conn"/>
+    <line x1="-10" y1="0" x2="-30" y2="-15" class="conn"/>
+    <line x1="-10" y1="0" x2="-30" y2="15" class="conn"/>
+    
+    <circle cx="50" cy="0" class="node" style="animation-delay: 0.2s" />
+    <circle cx="30" cy="-20" class="node" style="animation-delay: 0.6s" />
+    <circle cx="30" cy="20" class="node" style="animation-delay: 1.0s" />
+    <circle cx="-10" cy="0" class="node" style="animation-delay: 1.4s" />
+    <circle cx="-30" cy="-15" class="node" style="animation-delay: 1.8s" />
+    <circle cx="-30" cy="15" class="node" style="animation-delay: 2.2s" />
+  </g>
+
+  <!-- Text Payload -->
+  <text x="210" y="69" class="bracket">[</text>
+  <text x="790" y="69" class="bracket" text-anchor="end">]</text>
+  
+  <g transform="translate(500, 67)">
+    <text class="text line1" text-anchor="middle">Turning ideas into products</text>
+    <text class="text line2" text-anchor="middle">Building reliable AI systems</text>
+    <text class="text line3" text-anchor="middle">Solving real problems</text>
+  </g>
+</svg>
