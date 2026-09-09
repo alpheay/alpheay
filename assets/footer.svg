@@ -1,23 +1,15 @@
-<svg width="1000" height="150" viewBox="0 0 1000 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1000" height="150" rx="16" fill="#0A0A0A"/>
-  
-  <!-- Grid Lines -->
-  <path d="M0 40H1000" stroke="#333" stroke-width="0.5" stroke-dasharray="4 4" opacity="0.3"/>
-  <path d="M0 80H1000" stroke="#333" stroke-width="0.5" stroke-dasharray="4 4" opacity="0.3"/>
-  <path d="M0 120H1000" stroke="#333" stroke-width="0.5" stroke-dasharray="4 4" opacity="0.3"/>
-  
-  <!-- Content -->
-  <text x="500" y="70" font-family="system-ui, -apple-system, sans-serif" font-size="38" font-weight="800" fill="white" text-anchor="middle" style="letter-spacing: -0.02em;">THANKS FOR VISITING</text>
-  <text x="500" y="100" font-family="'Space Mono', monospace, system-ui" font-size="12" font-weight="500" fill="#9CA3AF" text-anchor="middle" style="letter-spacing: 0.15em; text-transform: uppercase;">&lt;/&gt; - nik</text>
-  
-  <!-- Decorative Accent -->
-  <line x1="400" y1="115" x2="600" y2="115" stroke="url(#paint0_linear_footer)" stroke-width="2" stroke-linecap="round"/>
-
-  <defs>
-    <linearGradient id="paint0_linear_footer" x1="400" y1="115" x2="600" y2="115" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#E11D48" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#E11D48"/>
-      <stop offset="1" stop-color="#E11D48" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Nik Nandi / alpheay</title>
+<desc id="desc">Always building.</desc>
+<defs>
+  <radialGradient id="halo"><stop stop-color="#2b2b2b"/><stop offset="1" stop-color="#080808" stop-opacity="0"/></radialGradient>
+  <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#797979"/><stop offset=".22" stop-color="#ecebe7"/><stop offset=".5" stop-color="#555"/><stop offset="1" stop-color="#161616"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202020"/><stop offset="1" stop-color="#0b0b0b"/></linearGradient>
+  <clipPath id="canvas"><rect width="1200" height="104" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#canvas)">
+<rect width="1200" height="104" fill="#080808"/>
+<text x="44" y="59" fill="#f4f3ef" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2">NN / ALPHEAY</text><text x="983" y="60" fill="#aaa9a6" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" >Always building.</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="103" rx="15.5" stroke="#282828"/>
 </svg>
