@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="362" viewBox="0 0 640 362" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Research deeply. Build deliberately.</title>
+<desc id="desc">From agent orchestration to the interfaces people use. I care about the whole system.</desc>
+<defs>
+  <radialGradient id="halo"><stop stop-color="#2b2b2b"/><stop offset="1" stop-color="#080808" stop-opacity="0"/></radialGradient>
+  <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#797979"/><stop offset=".22" stop-color="#ecebe7"/><stop offset=".5" stop-color="#555"/><stop offset="1" stop-color="#161616"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202020"/><stop offset="1" stop-color="#0b0b0b"/></linearGradient>
+  <clipPath id="canvas"><rect width="640" height="362" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#canvas)">
+<rect width="640" height="362" fill="#080808"/>
+<text x="40" y="47" fill="#aaa9a6" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2">01 / THE THROUGHLINE</text><text x="40" y="111" fill="#f4f3ef" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="400" letter-spacing="-1.5">Research deeply.</text><text x="40" y="164" fill="#f4f3ef" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="400" letter-spacing="-1.5">Build deliberately.</text><path d="M40 197L600 197" stroke="#303030" stroke-width="1" /><text x="40" y="243" fill="#aaa9a6" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" >From agent orchestration to the</text><text x="40" y="280" fill="#aaa9a6" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" >interfaces people use. I care about</text><text x="40" y="317" fill="#aaa9a6" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" >the whole system.</text>
+</g>
+<rect x=".5" y=".5" width="639" height="361" rx="15.5" stroke="#282828"/>
+</svg>
