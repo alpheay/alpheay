@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" fill="none" role="img" aria-labelledby="title desc">
 <title id="title">Nik Nandi / alpheay</title>
-<desc id="desc">Always building.</desc>
+<desc id="desc">Thanks for visiting.</desc>
 <defs>
   <radialGradient id="halo"><stop stop-color="#2b2b2b"/><stop offset="1" stop-color="#080808" stop-opacity="0"/></radialGradient>
   <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#797979"/><stop offset=".22" stop-color="#ecebe7"/><stop offset=".5" stop-color="#555"/><stop offset="1" stop-color="#161616"/></linearGradient>
@@ -9,7 +9,7 @@
 </defs>
 <g clip-path="url(#canvas)">
 <rect width="1200" height="104" fill="#080808"/>
-<text x="44" y="59" fill="#f4f3ef" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2">NN / ALPHEAY</text><text x="983" y="60" fill="#aaa9a6" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" >Always building.</text>
+<text x="44" y="59" fill="#f4f3ef" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2">NN / ALPHEAY</text><text x="965" y="60" fill="#aaa9a6" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" >Thanks for visiting.</text>
 </g>
 <rect x=".5" y=".5" width="1199" height="103" rx="15.5" stroke="#282828"/>
 </svg>
