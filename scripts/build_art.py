@@ -94,51 +94,51 @@ def header(mobile=False):
     w, h = (640, 800) if mobile else (1200, 540)
     content = stars(w, h)
     content += label(40 if mobile else 56, 48, "NN / ALPHEAY", 17 if mobile else 14)
-    content += label(w-195, 48, "RESEARCH + BUILD", 13)
+    content += label(w-195, 48, "RESEARCH + CODE", 13)
     content += line(40 if mobile else 56, 72, w-40 if mobile else w-56, 72)
     if mobile:
         content += torus(425, 444, 1.08)
-        content += text(38, 197, "Nik Nandi.", 91, weight=600, extra='letter-spacing="-6"')
-        content += text(42, 244, "Machine learning researcher.", 26, GRAY)
-        content += text(42, 660, "Intelligence,", 54, weight=400, extra='letter-spacing="-2"')
-        content += text(42, 718, "made useful.", 54, weight=400, extra='letter-spacing="-2"')
-        content += label(43, 767, "AI / AGENTS / REAL-WORLD SYSTEMS", 15)
-        content += label(42, 383, "IDEA", 14) + line(43, 400, 135, 400)
-        content += label(42, 432, "↓", 18) + label(42, 480, "IMPACT", 14)
+        content += text(38, 197, "Nik Nandi", 91, weight=600, extra='letter-spacing="-6"')
+        content += text(42, 244, "Machine learning researcher", 26, GRAY)
+        content += text(42, 660, "Hey, welcome", 54, weight=400, extra='letter-spacing="-2"')
+        content += text(42, 718, "to my GitHub.", 54, weight=400, extra='letter-spacing="-2"')
+        content += label(43, 767, "AI / PYTHON / WEB APPS", 15)
+        content += label(42, 383, "HELLO", 14) + line(43, 400, 135, 400)
+        content += label(42, 432, ":)", 18)
     else:
         content += torus(936, 274, 1.17)
         content += circle(936, 274, 242, "none", 'stroke="#272727" stroke-dasharray="2 9"')
-        content += text(51, 232, "Nik Nandi.", 112, weight=600, extra='letter-spacing="-7"')
-        content += text(56, 284, "Machine learning researcher.", 26, GRAY)
-        content += text(56, 367, "Intelligence, made useful.", 40, extra='letter-spacing="-1.4"')
-        content += label(57, 406, "AI / AGENTS / REAL-WORLD SYSTEMS", 14)
+        content += text(51, 232, "Nik Nandi", 112, weight=600, extra='letter-spacing="-7"')
+        content += text(56, 284, "Machine learning researcher", 26, GRAY)
+        content += text(56, 367, "Hey, welcome to my GitHub.", 40, extra='letter-spacing="-1.4"')
+        content += label(57, 406, "AI / PYTHON / WEB APPS", 14)
         content += line(56, 465, 1144, 465)
         content += circle(62, 501, 4, WHITE)
-        content += label(78, 506, "OPEN TO WORK & COLLABORATION", 13)
-        content += label(949, 506, "IDEA → IMPACT", 13)
-    svg("mobile/header.svg" if mobile else "header.svg", w, h, "Nik Nandi — intelligence, made useful.",
-        "Machine learning researcher. AI, agents, and real-world systems. Open to work and collaboration. A silver wire sculpture on black.", content)
+        content += label(78, 506, "OPEN TO WORK", 13)
+        content += label(949, 506, "@ALPHEAY", 13)
+    svg("mobile/header.svg" if mobile else "header.svg", w, h, "Nik Nandi — welcome to my GitHub.",
+        "Machine learning researcher. AI, Python, and web apps. Open to work.", content)
 
 
 def mission(mobile=False):
     w, h = (640, 362) if mobile else (1200, 224)
-    c = label(40 if mobile else 48, 47, "01 / THE THROUGHLINE", 16 if mobile else 14)
+    c = label(40 if mobile else 48, 47, "ABOUT ME", 16 if mobile else 14)
     if mobile:
-        c += text(40, 111, "Research deeply.", 43, extra='letter-spacing="-1.5"')
-        c += text(40, 164, "Build deliberately.", 43, extra='letter-spacing="-1.5"')
+        c += text(40, 111, "I work on AI", 43, extra='letter-spacing="-1.5"')
+        c += text(40, 164, "and software.", 43, extra='letter-spacing="-1.5"')
         c += line(40, 197, 600, 197)
-        c += text(40, 243, "From agent orchestration to the", 25, GRAY)
-        c += text(40, 280, "interfaces people use. I care about", 25, GRAY)
-        c += text(40, 317, "the whole system.", 25, GRAY)
+        c += text(40, 243, "Mostly ML models, AI agents,", 25, GRAY)
+        c += text(40, 280, "and web apps. I also like trying", 25, GRAY)
+        c += text(40, 317, "out WebGL and Rust.", 25, GRAY)
     else:
-        c += text(48, 110, "Research deeply.", 40, extra='letter-spacing="-1.3"')
-        c += text(48, 160, "Build deliberately.", 40, extra='letter-spacing="-1.3"')
+        c += text(48, 110, "I work on AI", 40, extra='letter-spacing="-1.3"')
+        c += text(48, 160, "and software.", 40, extra='letter-spacing="-1.3"')
         c += line(571, 48, 571, 176)
-        c += text(626, 96, "From agent orchestration to the", 25, GRAY)
-        c += text(626, 132, "interfaces people use. I care about", 25, GRAY)
-        c += text(626, 168, "the whole system.", 25, GRAY)
+        c += text(626, 96, "Mostly ML models, AI agents,", 25, GRAY)
+        c += text(626, 132, "and web apps. I also like trying", 25, GRAY)
+        c += text(626, 168, "out WebGL and Rust.", 25, GRAY)
     svg("mobile/hero_animation.svg" if mobile else "hero_animation.svg", w, h,
-        "Research deeply. Build deliberately.", "From agent orchestration to the interfaces people use. I care about the whole system.", c)
+        "I work on AI and software.", "Mostly ML models, AI agents, and web apps. I also like trying out WebGL and Rust.", c)
 
 
 def document_art():
@@ -229,12 +229,12 @@ def archive_art():
 
 
 PROJECTS = [
-    ("ipo_mine", "IPO-Mine", "RESEARCH / DOCUMENT INTELLIGENCE", ["Making long, multimodal IPO", "documents easier to study."], "PYTHON / PYTORCH / DOCKER", document_art),
-    ("jec", "JEC", "OPEN SOURCE / DEVELOPER TOOLS", ["Class-based routing. Clear contracts.", "A more deliberate way to build APIs."], "PYTHON / FASTAPI / DOCKER", routing_art),
-    ("hyperbleed", "HyperBleed", "PRODUCT / AGENTIC SYSTEMS", ["Intelligent planning, multimodal", "assistance, and tools that work together."], "REACT / TYPESCRIPT / PYTHON", intelligence_art),
-    ("vene", "Vene", "PRODUCT / HEALTH TECHNOLOGY", ["Wearable support that detects distress", "and helps close the caregiving gap."], "SWIFT / PYTHON / TENSORFLOW", health_art),
-    ("glycerin", "Glycerin", "OPEN SOURCE / TERMINAL EXPERIENCE", ["A considered interface for AI chat.", "Right where you already work."], "TYPESCRIPT / NODE.JS / SHELL", terminal_art),
-    ("portfolio", "The archive", "EXPLORATIONS / SELECTED EXPERIMENTS", ["More research, creative coding,", "and ideas turned into working software."], "RESEARCH / WEBGL / SYSTEMS", archive_art),
+    ("ipo_mine", "IPO-Mine", "RESEARCH / IPO DOCUMENTS", ["A dataset and tools for analyzing", "text and images in IPO documents."], "PYTHON / PYTORCH / DOCKER", document_art),
+    ("jec", "JEC", "OPEN SOURCE / DEVELOPER TOOLS", ["A FastAPI framework that lets you", "organize your routes using classes."], "PYTHON / FASTAPI / DOCKER", routing_art),
+    ("hyperbleed", "HyperBleed", "APP / AI ASSISTANT", ["An AI assistant that can plan tasks", "and use tools to help get them done."], "REACT / TYPESCRIPT / PYTHON", intelligence_art),
+    ("vene", "Vene", "APP / CAREGIVING", ["Uses wearables to detect distress", "and offer support in the moment."], "SWIFT / PYTHON / TENSORFLOW", health_art),
+    ("glycerin", "Glycerin", "OPEN SOURCE / CLI", ["Chat with AI from your terminal.", "Bring your own API keys."], "TYPESCRIPT / NODE.JS / SHELL", terminal_art),
+    ("portfolio", "Other projects", "MORE / PROJECTS", ["More of my research, experiments,", "and other things I've worked on."], "RESEARCH / WEBGL / SYSTEMS", archive_art),
 ]
 
 
@@ -265,9 +265,9 @@ def project(index, data, mobile=False):
 
 def stack(mobile=False):
     groups = [
-        ("01 / INTELLIGENCE", ["Python · PyTorch · TensorFlow", "Agent orchestration · ML research"]),
-        ("02 / INTERFACES", ["TypeScript · React · Next.js", "WebGL · Three.js · Swift"]),
-        ("03 / SYSTEMS", ["Node.js · FastAPI · PostgreSQL", "Rust · Go · Redis"]),
+        ("01 / MACHINE LEARNING", ["Python · PyTorch · TensorFlow", "AI agents · ML research"]),
+        ("02 / FRONTEND", ["TypeScript · React · Next.js", "WebGL · Three.js · Swift"]),
+        ("03 / BACKEND", ["Node.js · FastAPI · PostgreSQL", "Rust · Go · Redis"]),
         ("04 / INFRASTRUCTURE", ["Docker · Kubernetes · GitHub", "AWS · GCP · Vercel"]),
     ]
     w, h = (640, 694) if mobile else (1200, 348)
@@ -282,30 +282,30 @@ def stack(mobile=False):
             c += line(40, y+123, 600, y+123)
     if not mobile:
         c += line(600, 35, 600, 313) + line(44, 174, 1156, 174)
-    svg("mobile/stack.svg" if mobile else "stack.svg", w, h, "Tools of the trade",
+    svg("mobile/stack.svg" if mobile else "stack.svg", w, h, "Tech stack",
         ". ".join(name.split(" / ")[1] + ": " + ", ".join(values) for name, values in groups), c)
 
 
 def connect(mobile=False):
     w, h = (640, 380) if mobile else (1200, 300)
     c = stars(w, h, 12)
-    c += label(40 if mobile else 48, 49, "NEXT / SOMETHING GOOD", 16 if mobile else 14)
-    c += text(38 if mobile else 44, 124 if mobile else 130, "Let's build", 66 if mobile else 62, extra='letter-spacing="-2.5"')
-    c += text(38 if mobile else 44, 195 if mobile else 201, "something that matters.", 43 if mobile else 62, extra='letter-spacing="-2"')
-    c += text(40 if mobile else 48, 258, "Open to work and thoughtful collaborations.", 24, GRAY)
+    c += label(40 if mobile else 48, 49, "CONTACT", 16 if mobile else 14)
+    c += text(38 if mobile else 44, 124 if mobile else 130, "Want to work", 66 if mobile else 62, extra='letter-spacing="-2.5"')
+    c += text(38 if mobile else 44, 195 if mobile else 201, "on something?", 43 if mobile else 62, extra='letter-spacing="-2"')
+    c += text(40 if mobile else 48, 258, "Have a project or a role in mind? Email me.", 24, GRAY)
     if mobile:
-        c += line(40, 294, 600, 294) + text(40, 343, "Say hello", 25) + arrow(568, 321, 24)
+        c += line(40, 294, 600, 294) + text(40, 343, "Email me", 25) + arrow(568, 321, 24)
     else:
         c += circle(1058, 150, 66, "url(#panel)", 'stroke="#5c5c5c"') + arrow(1035, 127, 46)
     svg("mobile/connect_animation.svg" if mobile else "connect_animation.svg", w, h,
-        "Let's build something that matters.", "Open to work and thoughtful collaborations. Say hello to Nik Nandi by email.", c)
+        "Want to work on something?", "Have a project or a role in mind? Email Nik Nandi.", c)
 
 
 def footer(mobile=False):
     w, h = (640, 104) if mobile else (1200, 104)
     c = label(36 if mobile else 44, 59, "NN / ALPHEAY", 18 if mobile else 14, WHITE)
-    c += text(w-236 if mobile else w-217, 60, "Always building.", 24 if mobile else 21, GRAY)
-    svg("mobile/footer.svg" if mobile else "footer.svg", w, h, "Nik Nandi / alpheay", "Always building.", c)
+    c += text(w-254 if mobile else w-235, 60, "Thanks for visiting.", 24 if mobile else 21, GRAY)
+    svg("mobile/footer.svg" if mobile else "footer.svg", w, h, "Nik Nandi / alpheay", "Thanks for visiting.", c)
 
 
 def main():
